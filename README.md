@@ -6,7 +6,7 @@ Project Tracker for GSoC 2022: Implement Conversion Rate metric using @grimoirel
 
 ### Coding Period 1 (June 13, 2022 - July 25, 2020)
 
-- Week 1:
+- Week 1: [gsoc-2022/week-01.md at main - TieWay59/gsoc-2022 (github.com)](https://github.com/TieWay59/gsoc-2022/blob/main/reports/week-01/week-01.md)
 - Week 2:
 
 ## Useful links
