@@ -1,4 +1,4 @@
-# Coding Period 1 Work
+# Coding Period 1 week-01
 
 - I decide to use Grimoirelab as my implementation platform and Gitee as my datasource.
 - We had a meetings with Venu, Mabel & Yehui at the end of this week (finally, yes, meeting's harder than we thought). (see: [GSOC 2022 Conversion Rate Meeting](https://docs.google.com/document/d/1Pbl16AL9KL25xh3zThOcWWsQCfOk9yGWuLanXX_mkfM/edit#heading=h.uvvch85p6izn))
