@@ -6,8 +6,15 @@ Project Tracker for GSoC 2022: Implement Conversion Rate metric using @grimoirel
 
 ### Coding Period 1 (June 13, 2022 - July 25, 2020)
 
-- Week 1: [gsoc-2022/week-01.md at main - TieWay59/gsoc-2022 (github.com)](https://github.com/TieWay59/gsoc-2022/blob/main/reports/week-01/week-01.md)
-- Week 2:
+- Week 01 (`06-13 >> 06-19`): [gsoc-2022/week-01.md at main - TieWay59/gsoc-2022 (github.com)](https://github.com/TieWay59/gsoc-2022/blob/main/reports/week-01/week-01.md)
+- Week 02 (`06-20 >> 06-26`):
+- Week 03 (`06-27 >> 07-03`):
+- Week 04 (`07-04 >> 07-10`):
+- Week 05 (`07-11 >> 07-17`):
+
+## Issues
+
+- [[requirements.txt] No matching distribution found for grimoireelk - Issue #558 - chaoss/grimoirelab-sirmordred (github.com)](https://github.com/chaoss/grimoirelab-sirmordred/issues/558)
 
 ## Useful links
 
