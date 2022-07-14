@@ -6,11 +6,11 @@ Project Tracker for GSoC 2022: Implement Conversion Rate metric using @grimoirel
 
 ### Coding Period 1 (June 13, 2022 - July 25, 2020)
 
-- Week 01 (`06-13 >> 06-19`): [gsoc-2022/week-01.md at main - TieWay59/gsoc-2022 (github.com)](https://github.com/TieWay59/gsoc-2022/blob/main/reports/week-01/week-01.md)
-- Week 02 (`06-20 >> 06-26`):
-- Week 03 (`06-27 >> 07-03`):
-- Week 04 (`07-04 >> 07-10`):
-- Week 05 (`07-11 >> 07-17`):
+- Week 01 (`06-13 >> 06-19`): [gsoc-2022/week-01.md at main - TieWay59/gsoc-2022 - GitHub](https://github.com/TieWay59/gsoc-2022/blob/main/reports/week-01/week-01.md)
+- Week 02 (`06-20 >> 06-26`): [gsoc-2022/week-02.md at main - TieWay59/gsoc-2022 - GitHub](https://github.com/TieWay59/gsoc-2022/blob/main/reports/week-02/week-02.md)
+- Week 03 (`06-27 >> 07-03`): [gsoc-2022/week-03.md at main - TieWay59/gsoc-2022 - GitHub](https://github.com/TieWay59/gsoc-2022/blob/main/reports/week-03/week-03.md)
+- Week 04 (`07-04 >> 07-10`): [gsoc-2022/week-04.md at main - TieWay59/gsoc-2022 - GitHub](https://github.com/TieWay59/gsoc-2022/blob/main/reports/week-04/week-04.md)
+- Week 05 (`07-11 >> 07-17`): 
 
 ## Issues
 
