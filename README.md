@@ -10,11 +10,12 @@ Project Tracker for GSoC 2022: Implement Conversion Rate metric using @grimoirel
 - Week 02 (`06-20 >> 06-26`): [gsoc-2022/week-02.md at main - TieWay59/gsoc-2022 - GitHub](https://github.com/TieWay59/gsoc-2022/blob/main/reports/week-02/week-02.md)
 - Week 03 (`06-27 >> 07-03`): [gsoc-2022/week-03.md at main - TieWay59/gsoc-2022 - GitHub](https://github.com/TieWay59/gsoc-2022/blob/main/reports/week-03/week-03.md)
 - Week 04 (`07-04 >> 07-10`): [gsoc-2022/week-04.md at main - TieWay59/gsoc-2022 - GitHub](https://github.com/TieWay59/gsoc-2022/blob/main/reports/week-04/week-04.md)
-- Week 05 (`07-11 >> 07-17`): 
+- Week 05 (`07-11 >> 07-17`):
 
 ## Issues
 
 - [[requirements.txt] No matching distribution found for grimoireelk - Issue #558 - chaoss/grimoirelab-sirmordred (github.com)](https://github.com/chaoss/grimoirelab-sirmordred/issues/558)
+- [[utils] Turn on the help arg option in `micro.py` - Issue #560 - chaoss/grimoirelab-sirmordred - GitHub](https://github.com/chaoss/grimoirelab-sirmordred/issues/560)
 
 ## Useful links
 
